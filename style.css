@@ -1,0 +1,49 @@
+.order {
+  width: 50%;
+  margin: 0 auto;
+}
+.order .title h2 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+input[type="text"],
+[type="Email"],
+[type="Number"],
+[type="Password"],
+textarea {
+  width: 90%;
+  padding: 12px;
+  border: 2px solid rgb(170, 169, 169);
+  border-radius: 10px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+.order-form {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 30px;
+  width: 70%;
+  margin: 0 auto;
+  box-shadow: 0 0 5px 5px #ccc;
+}
+.btn {
+  text-align: center;
+}
+.btn a {
+  text-decoration: none;
+  background: linear-gradient(to right, #ff9334, #ff4a0a);
+  padding: 11px 15px;
+  color: #fff;
+  border-radius: 22px;
+  font-weight: 600px;
+}
+.btn a:hover {
+  background: linear-gradient(to left, #ff9334, #ff4a0a);
+  box-shadow: 0 0 3px 2px rgb(182, 181, 181);
+}
+.copy-rits {
+  text-align: center;
+  margin: 20px;
+}
